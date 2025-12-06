@@ -24,7 +24,7 @@ import php from "./tech/php.png";
 import go from "./tech/go.png";
 import aws from "./tech/AWS.jpeg";
 import Cpp from "./tech/C++.png";
-import MYSQL from "./tech/MySQL.jpeg";
+import MYSQL from "./tech/MYSQL.jpeg";
 import java from "./tech/java.jpeg";
 import linux from "./tech/linux.png";
 import python from "./tech/python.png";
